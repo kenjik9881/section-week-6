@@ -1,10 +1,10 @@
 # Debug this code
 
 There are 4 bugs related:
-1. syntax / definition
-1. caching
-1. repeated content
-1. undesired content like 'section X - page Y'
+1. syntax / definition - DONEZO
+1. caching - DONEZO
+1. repeated content - DONEZO
+1. undesired content like 'section X - page Y' - 
 
 As you read the code and try to find bugs, add new comments based on what you understand. Ask questions to yourself when you don't:
 1. Look at the constants. What do you understand from them?
